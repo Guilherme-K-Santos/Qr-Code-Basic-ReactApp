@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Outfit';
+  src: url('../public/fonts/Outfit-VariableFont_wght.ttf') format('truetype');
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-size: 15px;
+  font-family: 'Outfit', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  background-color: white;
+  width: 250px;
+  height: 400px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  width: 230px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+h1, p {
+  margin: 10px 30px;
+  width: 190px;
+  color: hsl(218, 44%, 22%);
+  text-align: center;
+}
+
+h1 {
+  font-size: 15px;
+}
+
+p {
+  font-size: 12px;
+}
