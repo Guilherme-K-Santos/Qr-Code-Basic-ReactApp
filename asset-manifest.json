@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Qr-Code-Basic-ReactApp/static/css/main.beff80f4.css",
+    "main.js": "/Qr-Code-Basic-ReactApp/static/js/main.aee19f31.js",
+    "static/media/Outfit-VariableFont_wght.ttf": "/Qr-Code-Basic-ReactApp/static/media/Outfit-VariableFont_wght.bc779fb16a97a6842a72.ttf",
+    "index.html": "/Qr-Code-Basic-ReactApp/index.html",
+    "main.beff80f4.css.map": "/Qr-Code-Basic-ReactApp/static/css/main.beff80f4.css.map",
+    "main.aee19f31.js.map": "/Qr-Code-Basic-ReactApp/static/js/main.aee19f31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beff80f4.css",
+    "static/js/main.aee19f31.js"
+  ]
+}
